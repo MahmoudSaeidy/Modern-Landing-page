@@ -7,7 +7,9 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "homepage": "https://mahmoudsaeidy.github.io/Modern-Landing-page"
+
   },
   "dependencies": {
     "@emotion/react": "^11.14.0",
